@@ -1,0 +1,6 @@
+pathlib
+google.generativeai
+ipython
+streamlit
+python-dotenv
+streamlit_chat
